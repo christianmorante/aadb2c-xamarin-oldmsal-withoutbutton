@@ -1,0 +1,2 @@
+C:\Users\chris\Downloads\AzureADB2CAuth\ADB2CAuthorization\ADB2CAuthorization.csproj;neutral
+C:\Users\chris\Downloads\AzureADB2CAuth\UWP\ADB2CAuthorization.UWP.csproj;x86
